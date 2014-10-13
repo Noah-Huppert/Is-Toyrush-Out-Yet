@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Is Toy Rush Out Yet</string>
+    <string name="question">Is Toy Rush Out Yet?</string>
+    <string name="qYes">Yes, jk. Its coming SOON</string>
+    <string name="qNo">No, now another puppy will cry :(</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

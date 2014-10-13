@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IsToyRushOutYet.iml" filepath="$PROJECT_DIR$/IsToyRushOutYet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsToyRushOutYet/IsToyRushOutYet-IsToyRushOutYet.iml" filepath="$PROJECT_DIR$/IsToyRushOutYet/IsToyRushOutYet-IsToyRushOutYet.iml" />
+    </modules>
+  </component>
+</project>
+
